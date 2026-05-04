@@ -1,6 +1,8 @@
 # Challenge-Dio-AWS-Services
 Desafio da DIO focado na seleção de três serviços da AWS para reduzir custos em uma farmácia que atua como hub de distribuição para múltiplas empresas.
 
+Sobre min ###: Com 7 anos de experiência em supply chain, possuo sólido conhecimento em gestão de estoques, previsão de demanda e otimização de processos. Ao longo da minha carreira, atuei na identificação de ineficiências operacionais e na implementação de soluções orientadas a dados para redução de custos. Essa experiência me permite compreender os principais desafios do setor farmacêutico, especialmente em operações de distribuição, e propor soluções tecnológicas viáveis, com foco em eficiência e retorno financeiro.
+
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
